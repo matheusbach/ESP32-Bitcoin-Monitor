@@ -5,4 +5,4 @@ Bitcoin price ticker e network monitoring with esp32 and LCD/OLED displays
 ![photo](esp32-bitcoin-monitor.jpg)
 
 ### Schematic:
-![schematic](Bitcoin Monitor Schematic.jpg)
+![schematic](Bitcoin%20Monitor%20Schematic.jpg)
